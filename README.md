@@ -1,0 +1,4 @@
+RznAdmin
+========
+
+Expandable administrative panel
